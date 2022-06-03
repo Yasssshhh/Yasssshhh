@@ -1,7 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hellow!🤹&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Yash Pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<h1 align="center">👋 Good to have you here!</h1>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
@@ -9,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,Tailwind CSS,Figma**
+- 🌱 I’m currently pursuing **B.Tech in Information Technology from Maharaja Agrasen Institute Of Technology**
 
 - 👨‍💻 All of my projects are available at [https://yasssshhh.github.io/myportfolio/](https://yasssshhh.github.io/myportfolio/)
 
 - 💬 Ask me about **MERN,Data Structures & Algorithms**
+
+- 🤝 I’m looking for help with **opensource projects**
 
 - 📫 How to reach me **yashpathak6302@gmail.com**
 
